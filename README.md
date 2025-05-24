@@ -1,5 +1,3 @@
-### About the Author
-
 Hi, I'm **Krishna Kumar Akurathi**, a **Cloud-Native Architect** and **AI Solution Designer** with over **17 years of experience** in building **scalable, secure, and stable enterprise-grade applications**.
 
 Throughout my career, I’ve architected and led the development of cloud-native platforms leveraging **microservices, container orchestration, event-driven patterns**, and **zero-trust security models**. My core strength lies in turning business needs into **resilient, high-performance architectures** using platforms like **AWS, Kubernetes, and modern API gateways**.
